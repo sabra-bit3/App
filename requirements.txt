@@ -1,0 +1,7 @@
+seaborn
+streamlit==0.60.0
+numpy
+pandas
+matplotlib
+plotly
+numerize
